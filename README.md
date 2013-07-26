@@ -1,4 +1,4 @@
-A tool to graph django templates in a way that makes sense
+# A tool to graph django templates in a way that makes sense
 
 ### To do
 
